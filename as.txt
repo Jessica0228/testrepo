@@ -1,0 +1,4 @@
+- Buy Toothpaste
+- Buy Pear
+- Sell Apple
+- Sell Table
